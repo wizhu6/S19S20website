@@ -1,4 +1,4 @@
-# S19S20website
+# F19S20website
 
 This is the repository on GitHub for the F19/S20 Girls Who Code.
 
